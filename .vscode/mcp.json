@@ -1,0 +1,10 @@
+{
+  "servers": {
+    "mcp-server-time": {
+      "command": "node",
+      "args": [
+        "/ABSOLUTE/PATH/TO/PARENT/FOLDER/lab-mcp/build/index.js"
+      ],
+    }
+  }
+}
